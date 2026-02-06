@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あなたはmusic",
+  "base_artist": "Guiano",
+  "createdAt": "2026-02-06T04:23:38.320530Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたはmusic",
+      "artist": "Guiano",
+      "has_synced": false,
+      "path": "select/pl_01_あなたはmusic_Guiano.txt"
+    }
+  ]
+}
